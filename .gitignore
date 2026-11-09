@@ -1,0 +1,23 @@
+# Generated physical design results
+results/
+
+# Generated simulation files
+*.vvp
+*.vcd
+*.fst
+*.gtkw
+
+# Temporary and backup files
+*.save
+*.swp
+*~
+
+# Logs
+*.log
+
+# OpenLane generated runs
+openlane/runs/
+
+# Python cache
+__pycache__/
+*.pyc
